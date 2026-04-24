@@ -8,6 +8,23 @@
 
 ---
 
+## Клонирование репозитория
+
+```bash
+git clone https://github.com/MrKamura/test_users_dashboard.git
+cd test_users_dashboard
+```
+
+Дальше — установка зависимостей и запуск (см. ниже).  
+По SSH, если у вас [настроен ключ](https://docs.github.com/en/authentication/connecting-to-github-with-ssh):
+
+```bash
+git clone git@github.com:MrKamura/test_users_dashboard.git
+cd test_users_dashboard
+```
+
+---
+
 ## Требования
 
 - **Node.js** 20+ (рекомендуется LTS)
